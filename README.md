@@ -38,7 +38,7 @@ Assuming you already have an Android project, e.g. _MyWebexApp_, for your Androi
 
     ```groovy
     dependencies { 
-        compile('com.ciscowebex:androidsdk:2.0.0@aar', {
+        compile('com.ciscowebex:androidsdk:2.1.1@aar', {
             transitive = true
         })
     }
